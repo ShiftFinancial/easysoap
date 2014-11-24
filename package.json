@@ -5,13 +5,13 @@
     "name": "Michael Röber",
     "email": "moszeed@gmail.com"
   },
-  "version": "0.6.13",
+  "version": "0.6.14",
   "main": "./index",
   "dependencies": {
-    "promise": ">=3.2.0",
-    "request": ">=2.33.0",
+    "promise": "6.0.1",
+    "request": "^2.36.0",
     "underscore": "1.6.0",
-    "xmldoc": ">=0.1.2"
+    "xmldoc": "0.1.2"
   },
   "keywords": [
     "soap",
